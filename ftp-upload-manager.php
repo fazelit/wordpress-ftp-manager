@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: FTP Upload Manager Media
-Plugin URI: https://yektadg.com/
+Plugin URI: https://github.com/fazelit/wordpress-ftp-manager
 Description: آپلود رسانه‌ها در سرور FTP به جای هاست محلی.
 Version: 1.0
 Author: ابوفاضل فولادی
